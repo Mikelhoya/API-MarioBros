@@ -19,7 +19,7 @@ public class Goomba extends Actor {
       } else {
          this.toca = false;
       }
-
+//devuelve true si se choca con la tuberia
       return this.toca;
    }
 }
